@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98744c9b-c73b-46b1-ae73-3c02fb38fc27" name="Changes" comment="It's works">
+    <list default="true" id="98744c9b-c73b-46b1-ae73-3c02fb38fc27" name="Changes" comment="don't works">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hordiienko/exampleSecurity/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hordiienko/exampleSecurity/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hordiienko/exampleSecurity/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hordiienko/exampleSecurity/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hordiienko/exampleSecurity/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hordiienko/exampleSecurity/repository/UserRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +19,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -89,6 +92,37 @@
       <workItem from="1664182550534" duration="89000" />
       <workItem from="1664182941259" duration="569000" />
       <workItem from="1664183513567" duration="309000" />
+      <workItem from="1664259873609" duration="604000" />
+      <workItem from="1664260674262" duration="42000" />
+      <workItem from="1664260766374" duration="17000" />
+      <workItem from="1664261045801" duration="25000" />
+      <workItem from="1664261258655" duration="41000" />
+      <workItem from="1664261329877" duration="15000" />
+      <workItem from="1664262008911" duration="119000" />
+      <workItem from="1664262161889" duration="9000" />
+      <workItem from="1664262300235" duration="118000" />
+      <workItem from="1664262487343" duration="16000" />
+      <workItem from="1664262553659" duration="14000" />
+      <workItem from="1664262611093" duration="19000" />
+      <workItem from="1664262680751" duration="15000" />
+      <workItem from="1664263134523" duration="72000" />
+      <workItem from="1664264045880" duration="21000" />
+      <workItem from="1664264348044" duration="145000" />
+      <workItem from="1664265587877" duration="46000" />
+      <workItem from="1664265636850" duration="33000" />
+      <workItem from="1664266396891" duration="7000" />
+      <workItem from="1664268297443" duration="350000" />
+      <workItem from="1664268650113" duration="28000" />
+      <workItem from="1664888516899" duration="205000" />
+      <workItem from="1664968774393" duration="1628000" />
+      <workItem from="1665038183808" duration="413000" />
+      <workItem from="1665066644879" duration="152000" />
+      <workItem from="1665140675934" duration="121000" />
+      <workItem from="1665140808618" duration="5603000" />
+      <workItem from="1665411320330" duration="603000" />
+      <workItem from="1665484872891" duration="15000" />
+      <workItem from="1665581419356" duration="1475000" />
+      <workItem from="1665735796947" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="not works">
       <created>1664180510257</created>
@@ -124,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="not works" />
     <MESSAGE value="It's works" />
-    <option name="LAST_COMMIT_MESSAGE" value="It's works" />
+    <MESSAGE value="don't works" />
+    <option name="LAST_COMMIT_MESSAGE" value="don't works" />
   </component>
 </project>
